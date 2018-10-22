@@ -1,0 +1,17 @@
+emp_id,emp_name,mananger_id,dept_id,salary
+1,Micheal Scott,,1,6000
+2,Dwight Schrute,1,2,4000
+3,Jim Halpert,1,2,3500
+4,Anthony Stark,,1,100000
+5,Bill Nye,4,5,3800
+6,Bruce Banner,4,5,8000
+7,Jane Foster,4,5,7500
+8,Shuri,,5,80000
+9,Diane Rawlinson,,1,50000
+10,Tonya Harding,9,4,30000
+11,Nancy Karrigan,9,4,42000
+12,Kristi Yamaguchi,9,4,40000
+13,Donna Clarke,,1,75000
+14,Cameron Howe,13,3,75000
+15,Joe McMillan,13,2,80000
+16,Saul Goodman,13,6,40000
