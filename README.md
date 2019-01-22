@@ -49,7 +49,7 @@ createdb
 brew services start postgresql
 
 # get this repo and install it
-git clone git clone https://github.com/kiwidamien/SQL_Practice.git
+git clone https://github.com/kiwidamien/SQL_Practice.git
 cd SQL_Practice
 sh install_problems.sh
 ```
