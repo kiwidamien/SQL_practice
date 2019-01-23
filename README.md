@@ -25,11 +25,18 @@ If you have already install postgres on your system, you only need to run step 3
 
 2. Install postgres using `brew`:
 ```bash
-brew install postgresql 
+# install postgres
+brew install postgresql
+
+# install the start/stop/restart services
+brew tap homebrew/servces
+
+# create your user, so you can open postgres
 createdb 
+
+# start postgre running
 brew services start postgresql
 ```
-  Note `whoami` is in backticks, **not** single quotations. This creates the default database -- your username -- for you to connect to.
 
 3. Clone this repo and install
 ```bash
