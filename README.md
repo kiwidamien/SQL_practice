@@ -53,3 +53,7 @@ git clone git clone https://github.com/kiwidamien/SQL_Practice.git
 cd SQL_Practice
 sh install_problems.sh
 ```
+
+## Issues?
+
+Please report all issues using Github issues
