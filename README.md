@@ -29,7 +29,7 @@ If you have already install postgres on your system, you only need to run step 3
 brew install postgresql
 
 # install the start/stop/restart services
-brew tap homebrew/servces
+brew tap homebrew/services
 
 # create your user, so you can open postgres
 createdb 
