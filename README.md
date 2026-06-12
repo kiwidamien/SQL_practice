@@ -12,6 +12,8 @@ For each problem set, I have included the following:
 
 There may be additional files (such as a schema) but this is not guaranteed.
 
+If you would rather practice without setting up postgres locally, [DataDriven's SQL practice problems](https://datadriven.io/sql-practice-problems) can be run directly in the browser.
+
 ## Installation
 
 ### Mac OSX
